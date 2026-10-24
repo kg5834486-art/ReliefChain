@@ -138,3 +138,21 @@ The repository contains smart contracts and supporting application components. E
 
 ### Development
 This project is under development. Setup and execution instructions should be followed according to the configuration files and documentation in this repository.
+
+
+## Setup Guide
+
+### Prerequisites
+- Git
+- The programming languages and tools required by the project
+- Any dependencies specified in the project configuration files
+
+### Getting the Project
+Clone the repository and open the project folder in your development environment.
+
+### Project Structure
+- `packages/contracts/` — smart contract code and related configuration, if applicable
+- Other directories — supporting application code and resources
+
+### Before Running
+Review the project's configuration files and README instructions. Configure any required environment variables locally, and never commit private keys, passwords, or API secrets.
